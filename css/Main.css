@@ -387,6 +387,7 @@ header .container nav .toggle-menu {
   .portfolio .portfolio-content {
     display: grid;
     grid-template-columns: 1fr;
+    justify-items: center;
   }
   .portfolio .portfolio-content img {
     width: 100%;
